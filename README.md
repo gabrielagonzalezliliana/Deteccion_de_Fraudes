@@ -13,12 +13,15 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 
 
 ## 🎥 Presentación
-### 📌 **Puedes descargar la presentación en PowerPoint aquí:** https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true
+### 📌 **Puedes descargar la presentación en PowerPoint aquí:** (https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)
 
-### 📌 **Vista previa de la presentación en PDF:** https://drive.google.com/file/d/1xKLY3czf1xCiMXT8hxePqM06cR0MiUHj/view?usp=sharing
+### 📌 **Vista previa de la presentación en PDF:** (https://drive.google.com/file/d/1xKLY3czf1xCiMXT8hxePqM06cR0MiUHj/view?usp=sharing)
 
-### 📌 **Ver presentación en Google Drive:**  
-[![Ver Presentación]((https://img.shields.io/badge/Ver%20Presentaci%C3%B3n-Google%20Drive-blue?style=for-the-badge&logo=google-drive))](https://colab.research.google.com/drive/16xIn82MVn4vUpQIsFMk_BFbyRppPt570?usp=sharing)
+ 
+## 🚀 Abrir en Google Colab
+📌 **Puedes abrir el notebook directamente en Google Colab con este enlace:**  
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16xIn82MVn4vUpQIsFMk_BFbyRppPt570?usp=sharing)
+
 
 ## 🚀 Cómo Ejecutar el Proyecto
 1. Clona el repositorio:
