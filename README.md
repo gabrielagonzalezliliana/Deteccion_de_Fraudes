@@ -6,14 +6,11 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 ## 📂 Contenido del Repositorio
 - 📁 `data/` → Contiene los datasets utilizados en el análisis.
 - 📁 `notebooks/` → Incluye los notebooks de Google Colab con el análisis exploratorio y los modelos.
-- 📁 `scripts/` → Código en Python para preprocesamiento y entrenamiento del modelo.
-- 📁 `reports/` → Documentación y presentación de resultados.
 - 📄 `README.md` → Explicación detallada del proyecto.
 
 ## 📈 Resultados
 - Exploración de datos y visualización de tendencias.
-- Modelos de Machine Learning aplicados para detección de fraudes.
-- Evaluación del desempeño del modelo con métricas como **precisión, recall y F1-score**.
+
 
 ## 🎥 Presentación
 ### 📌 **Puedes descargar la presentación en PowerPoint aquí:** [Detección de Fraudes.pptx](reports/Deteccion_de_Fraudes.pptx)
@@ -44,7 +41,7 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 
 - Scikit-learn 🤖
 
-- Matplotlib & Seaborn 📈
+- Matplotlib, Seaborn & Plotly  📈
 
 - Google Colab 🔥
 
