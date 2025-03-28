@@ -15,7 +15,7 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 ## 🎥 Presentación
 📌 **Puedes descargar la presentación en PowerPoint aquí:** 
 ## 🎥 Presentación
-### 📌 **Puedes descargar la presentación en PowerPoint aquí:** [Detección de Fraudes.pptx](reports/Deteccion_de_Fraudes.pptx)
+### 📌 **Puedes descargar la presentación en PowerPoint aquí:** 
 
 [![Descargar Presentación en PowerPoint](https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_PowerPoint_2013-2019_Logo.svg)](https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)
 
