@@ -18,7 +18,7 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 ### 📌 **Vista previa de la presentación en PDF:** https://drive.google.com/file/d/1xKLY3czf1xCiMXT8hxePqM06cR0MiUHj/view?usp=sharing
 
 ### 📌 **Ver presentación en Google Drive:**  
-[![Ver Presentación](https://img.shields.io/badge/Ver%20Presentaci%C3%B3n-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/tu_id_de_archivo/view)
+[![Ver Presentación](https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)](https://colab.research.google.com/drive/16xIn82MVn4vUpQIsFMk_BFbyRppPt570?usp=sharing)
 
 ## 🚀 Cómo Ejecutar el Proyecto
 1. Clona el repositorio:
