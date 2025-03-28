@@ -15,11 +15,11 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 ## 🎥 Presentación
 ### 📥 **Descargar la presentación en PowerPoint**  
 Haz clic en el siguiente enlace para **descargar** la presentación en PowerPoint:  
-[**Descargar Presentación en PowerPoint**](https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)
+[**Descargar Presentación en PowerPoint**](https://docs.google.com/presentation/d/1imePwsZoOPkmCZqVuSBZ3cz-3lO-Jnno/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)
 
 ### 📄 **Vista previa de la presentación en PDF**  
 Haz clic en el siguiente enlace para **ver la presentación en PDF**:  
-[**Ver Presentación en PDF**](https://drive.google.com/file/d/1xKLY3czf1xCiMXT8hxePqM06cR0MiUHj/view?usp=sharing)
+[**Ver Presentación en PDF**](https://drive.google.com/file/d/1NCoZn1sZLMHbiOE9bf7hJMskQ_lBh2Qs/view?usp=sharing)
 
 
 
