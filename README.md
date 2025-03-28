@@ -36,7 +36,7 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 
 ⚠️ Reemplaza tu_notebook.ipynb con el nombre real del archivo notebook.
 
-##🛠 Tecnologías Utilizadas
+## 🛠 Tecnologías Utilizadas
 
 - Python 🐍
 
