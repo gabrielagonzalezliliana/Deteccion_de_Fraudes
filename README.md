@@ -17,8 +17,10 @@ Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para 
 [![Descargar Presentación en PowerPoint](https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_PowerPoint_2013-2019_Logo.svg)](https://docs.google.com/presentation/d/1nCdqsLQhynxVc3LRNZ-pkQJgpQd1FOug/edit?usp=sharing&ouid=110788860585567342270&rtpof=true&sd=true)
 
 
+
 📌 **Vista previa de la presentación en PDF:**  
 [![Vista previa PDF](https://upload.wikimedia.org/wikipedia/commons/4/4e/PDF_file_icon.svg)](https://drive.google.com/file/d/1xKLY3czf1xCiMXT8hxePqM06cR0MiUHj/view?usp=sharing)
+
 
 
  
