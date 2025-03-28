@@ -4,9 +4,9 @@
 Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para identificar transacciones bancarias fraudulentas. Se analizan patrones en los datos y se entrenan modelos para mejorar la detección de fraudes.
 
 ## 📂 Contenido del Repositorio
-- 📁 `data/` → Contiene los datasets utilizados en el análisis.
-- 📁 `notebooks/` → Incluye los notebooks de Google Colab con el análisis exploratorio y los modelos.
-- 📄 `README.md` → Explicación detallada del proyecto.
+- 📁 `bank_transaction_data_2 4.csv` → Contiene el dataset utilizado en el análisis.
+- 📁 `DATA2_PROYECTO2.ipynb` → Incluye el notebook de Google Colab con el análisis exploratorio.
+- 📄 `README.md` → Explicación detallada del proyecto, con acceso a presentacion del proyecto y a Google Colab para poder ver los graficos dinamicos y mapa generado.
 
 ## 📈 Resultados
 - Exploración de datos y visualización de tendencias.
@@ -36,11 +36,7 @@ Haz clic en el siguiente enlace para **ver la presentación en PDF**:
 
 2. Ejecuta el notebook en Google Colab o Jupyter Notebook.
 
-🚀 Abrir en Google Colab
 
-📌 Puedes abrir el notebook directamente en Google Colab con este enlace:
-
-⚠️ Reemplaza tu_notebook.ipynb con el nombre real del archivo notebook.
 
 ## 🛠 Tecnologías Utilizadas
 
