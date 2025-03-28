@@ -1,44 +1,34 @@
-📊 Detección de Fraudes en Transacciones Bancarias
+# 📊 Detección de Fraudes en Transacciones Bancarias
 
-📝 Descripción del Proyecto
+## 📝 Descripción del Proyecto
+Este proyecto utiliza técnicas de **Data Science** y **Machine Learning** para identificar transacciones bancarias fraudulentas. Se analizan patrones en los datos y se entrenan modelos para mejorar la detección de fraudes.
 
-Este proyecto utiliza técnicas de Data Science y Machine Learning para identificar transacciones bancarias fraudulentas. Se analizaran patrones en los datos y se entrenaran modelos para mejorar la detección de fraudes.
+## 📂 Contenido del Repositorio
+- 📁 `data/` → Contiene los datasets utilizados en el análisis.
+- 📁 `notebooks/` → Incluye los notebooks de Google Colab con el análisis exploratorio y los modelos.
+- 📁 `scripts/` → Código en Python para preprocesamiento y entrenamiento del modelo.
+- 📁 `reports/` → Documentación y presentación de resultados.
+- 📄 `README.md` → Explicación detallada del proyecto.
 
-📂 Contenido del Repositorio
+## 📈 Resultados
+- Exploración de datos y visualización de tendencias.
+- Modelos de Machine Learning aplicados para detección de fraudes.
+- Evaluación del desempeño del modelo con métricas como **precisión, recall y F1-score**.
 
-📁 data/ → Contiene los datasets utilizados en el análisis.
+## 🎥 Presentación
+### 📌 **Puedes descargar la presentación en PowerPoint aquí:** [Detección de Fraudes.pptx](reports/Deteccion_de_Fraudes.pptx)
 
-📁 notebooks/ → Incluye los notebooks de Google Colab con el análisis exploratorio y los modelos.
+### 📌 **Vista previa de la presentación en PDF:** [Detección de Fraudes.pdf](reports/Deteccion_de_Fraudes.pdf)
 
-📁 scripts/ → Código en Python para preprocesamiento y entrenamiento del modelo.
+### 📌 **Ver presentación en Google Drive:**  
+[![Ver Presentación](https://img.shields.io/badge/Ver%20Presentaci%C3%B3n-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/tu_id_de_archivo/view)
 
-📁 reports/ → Documentación y presentación de resultados.
+## 🚀 Cómo Ejecutar el Proyecto
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/gabrielagonzalezliliana/Deteccion_de_Fraudes.git
 
-📄 README.md → Explicación detallada del proyecto.
-
-📈 Resultados
-
-Exploración de datos y visualización de tendencias.
-
-Modelos de Machine Learning aplicados para detección de fraudes.
-
-Evaluación del desempeño del modelo con métricas como precisión, recall y F1-score.
-
-🎥 Presentación
-
-📌 Puedes descargar la presentación en PowerPoint aquí: Detección de Fraudes.pptx
-
-📌 Vista previa de la presentación en PDF: Detección de Fraudes.pdf
-
-📌 Ver presentación en Google Drive:
-
-🚀 Cómo Ejecutar el Proyecto
-
-Clona el repositorio:
-
-git clone https://github.com/gabrielagonzalezliliana/Deteccion_de_Fraudes.git
-
-Ejecuta el notebook en Google Colab o Jupyter Notebook.
+2. Ejecuta el notebook en Google Colab o Jupyter Notebook.
 
 🚀 Abrir en Google Colab
 
@@ -46,15 +36,15 @@ Ejecuta el notebook en Google Colab o Jupyter Notebook.
 
 ⚠️ Reemplaza tu_notebook.ipynb con el nombre real del archivo notebook.
 
-🛠 Tecnologías Utilizadas
+##🛠 Tecnologías Utilizadas
 
-Python 🐍
+- Python 🐍
 
-Pandas & NumPy 📊
+- Pandas & NumPy 📊
 
-Scikit-learn 🤖
+- Scikit-learn 🤖
 
-Matplotlib & Seaborn 📈
+- Matplotlib & Seaborn 📈
 
-Google Colab 🔥
+- Google Colab 🔥
 
