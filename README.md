@@ -19,7 +19,7 @@ Haz clic en el siguiente enlace para **descargar** la presentación en PowerPoin
 
 ### 📄 **Vista previa de la presentación en PDF**  
 Haz clic en el siguiente enlace para **ver la presentación en PDF**:  
-[**Ver Presentación en PDF**](https://drive.google.com/file/d/12EIYoljbtYkyXISYAXx6ndCASPMKmrLH/view?usp=sharing)
+[**Ver Presentación en PDF**](https://drive.google.com/file/d/1fxvc3W3F1Cv-BGWKNBMho_0ZjPH-DeWQ/view?usp=sharing)
 
 
 
